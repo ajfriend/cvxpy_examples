@@ -2,3 +2,4 @@
 *.out
 *.pyc
 gamestats
+.DS_store
