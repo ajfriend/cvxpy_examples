@@ -1,0 +1,2 @@
+# Ideas
+- constrained RPS
