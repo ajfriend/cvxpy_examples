@@ -16,9 +16,3 @@ have a 512x512 matrix, most of whose entries are zero. a few nonzeros with real 
 - use iterative reweighting to recover edges very nicely
 - shoudl work on cartoon images
 
-## robust kalman filter
-- add noise
-- some percentage of observations are just totally off
-- minimize 2-norm of state plus 1 norm of sparse errors
-- <http://www.stanford.edu/~boyd/papers/pdf/rt_cvx_sig_proc.pdf>
-- use anomoly detection to find interesting points: driver did something weird here!
